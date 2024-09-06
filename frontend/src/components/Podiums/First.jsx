@@ -1,6 +1,6 @@
-import eiden from '../assets/eiden.png'
-import firstRect from '../assets/firstRect.png'
-import crown from '../assets/crown.png'
+import eiden from '../../assets/eiden.png'
+import firstRect from '../../assets/firstRect.png'
+import crown from '../../assets/crown.png'
 
 const First = () => {
     return (

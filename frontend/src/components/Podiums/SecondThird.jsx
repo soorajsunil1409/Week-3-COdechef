@@ -1,7 +1,7 @@
-import jackson from '../assets/jackson.png'
-import emma from '../assets/emma.png'
-import secRect from '../assets/secRect.png'
-import thirdRect from '../assets/thirdRect.png'
+import jackson from '../../assets/jackson.png'
+import emma from '../../assets/emma.png'
+import secRect from '../../assets/secRect.png'
+import thirdRect from '../../assets/thirdRect.png'
 
 const SecondThird = ({ name, score, second }) => {
     return (
